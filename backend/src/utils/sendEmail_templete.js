@@ -20,7 +20,7 @@ export const sendEmail_templete=(link)=>`<!DOCTYPE html>
       <tr>
         <td align="center" style="background-color:#0f172a; padding:30px 20px;">
           <h1 style="margin:0; color:#ffffff; font-size:26px;">
-            Saraha<span style="color:#38bdf8;">.</span>
+            Eghatha<span style="color:#38bdf8;">.</span>
           </h1>
           <p style="margin:10px 0 0; color:#cbd5e1; font-size:14px;">
             Welcome to our community
@@ -79,7 +79,7 @@ export const sendEmail_templete=(link)=>`<!DOCTYPE html>
       <tr>
         <td align="center"
           style="padding:20px; background-color:#f8fafc; color:#94a3b8; font-size:12px;">
-          &copy; ${new Date().getFullYear()} Saraha. All rights reserved.
+          &copy; ${new Date().getFullYear()} Eghatha. All rights reserved.
         </td>
       </tr>
 
