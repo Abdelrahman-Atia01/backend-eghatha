@@ -27,6 +27,6 @@ app.use((err, req, res, next) => {
         message: err.message
     });
 });
-app.listen(3100,()=>{
+app.listen(process.env.PORT,()=>{
     console.log("app is running")
 })
