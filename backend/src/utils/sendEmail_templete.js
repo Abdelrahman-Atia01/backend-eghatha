@@ -40,7 +40,7 @@ export const sendEmail_templete=(link)=>`<!DOCTYPE html>
           </p>
 
           <p style="font-size:15px; line-height:1.8;">
-            Thank you for creating an account with Saraha!
+            Thank you for creating an account with eghatha!
             Please verify your email address by clicking the button below
             to activate your account.
           </p>
